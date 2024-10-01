@@ -7,7 +7,6 @@ Este es un párrafo con **palabras en negrita**, _palabras en cursiva_, y `esto 
 
 ### Trozo de Código
 ```javascript
-// Este es un trozo de código en JavaScript
 const saludo = "Hola, mundo";
 console.log(saludo);
 ```
@@ -29,7 +28,7 @@ console.log(saludo);
 [Lee más en el fichero README](./README.md)
 
 ### Imagen
-![Ejemplo de imagen](https://via.placeholder.com/150)
+![Ejemplo de imagen](https://i.blogs.es/6f44dd/google-2015-1/1366_2000.jpg)
 
 ### Tabla
 
