@@ -23,7 +23,7 @@ console.log(saludo);
 - Elemento tres
 
 ### Enlace Externo
-[Visita OpenAI](https://openai.com)
+[Visita Google](https://google.com)
 
 ### Enlace a Otro Fichero Markdown
 [Lee más en el fichero README](./README.md)
